@@ -98,56 +98,56 @@ QUEST_20150317_000097
 QUEST_20150317_000098
 QUEST_20150317_000099
 QUEST_20150317_000100
-QUEST_20150317_000101
-QUEST_20150317_000102
-QUEST_20150317_000103
-QUEST_20150317_000104
-QUEST_20150317_000105
-QUEST_20150317_000106
-QUEST_20150317_000107
-QUEST_20150317_000108
-QUEST_20150317_000109
-QUEST_20150317_000110
-QUEST_20150317_000111
-QUEST_20150317_000112
-QUEST_20150317_000113
-QUEST_20150317_000114
-QUEST_20150317_000115
-QUEST_20150317_000116
-QUEST_20150317_000117
-QUEST_20150317_000118
-QUEST_20150317_000119
-QUEST_20150317_000120
-QUEST_20150317_000121
-QUEST_20150317_000122
-QUEST_20150317_000123
-QUEST_20150317_000124
-QUEST_20150317_000125
-QUEST_20150317_000126
-QUEST_20150317_000127
-QUEST_20150317_000128
-QUEST_20150317_000129
-QUEST_20150317_000130
-QUEST_20150317_000131
-QUEST_20150317_000132
-QUEST_20150317_000133
-QUEST_20150317_000134
-QUEST_20150317_000135
-QUEST_20150317_000136
-QUEST_20150317_000137
-QUEST_20150317_000138
-QUEST_20150317_000139
-QUEST_20150317_000140
-QUEST_20150317_000141
-QUEST_20150317_000142
-QUEST_20150317_000143
-QUEST_20150317_000144
-QUEST_20150317_000145
-QUEST_20150317_000146
-QUEST_20150317_000147
-QUEST_20150317_000148
-QUEST_20150317_000149
-QUEST_20150317_000150
+QUEST_20150317_000101	{memo X}Há monstros além deste ponto. Tenha cuidado.
+QUEST_20150317_000102	Esses bosques não são exatamente pacíficos, mas é ainda é melhor do que os outros lugares. {nl}Há florestas que não têm nada mais que almas vagando.
+QUEST_20150317_000103	$Isso é o que pessoas que viram uma Deusa em seus sonhos estão sendo chamados.
+QUEST_20150317_000104	$Eu pensei que as visões dos Reveladores primeiramente eram loucura. {nl}As Deusas se foram por um longo tempo, apesar de tudo.
+QUEST_20150317_000105	$Não é verdade que as Deusas não têm respondido as nossas orações desde o Medzio Diena há quatro anos?
+QUEST_20150317_000106	$Você pode encontrar os Mestres de Classes ao redor do reino. {nl}Por que você não os visita e aprende o que puder?
+QUEST_20150317_000107	$Você não sabe sobre o Medzio Diena? Você deve ter vindo de realmente muito longe. {nl}Há quatro anos atrás, as coisas saíram de controle na capital.
+QUEST_20150317_000108	${memo X}Isso foi um desastre… Muitas pessoas foram feridas ou mortas. {nl}Uma vez gentis criaturas, elas cresceram ferozes e muitos monstros emergiram.
+QUEST_20150317_000109	$Se você quiser entender o que aconteceu no Medzio Diena há quatro anos, então vá para Klaipeda. {nl}Muitos dos sobreviventes se refugiaram lá.
+QUEST_20150317_000110	Sentinela dos Bosques Orientais
+QUEST_20150317_000111	Você está indo para os Bosques Orientais? {nl}Não deve! É perigoso demais!
+QUEST_20150317_000112	Droga, essas coisas teimosas nos perseguiram tão longe!
+QUEST_20150317_000113	{memo X}Aqueles gritos… Nós estamos sob ataque!
+QUEST_20150317_000114	Instruções de Segurança
+QUEST_20150317_000115	1. Apenas pessoal autorizado pode entrar. {nl}2. Sempre siga as instruções do supervisor da mineração.
+QUEST_20150317_000116	3. Não se aproxime de áreas interditadas. {nl}4. Quaisquer pessoas suspeitas devem ser notificadas aos Cavaleiros de Klaipeda.
+QUEST_20150317_000117	Soldado de Suprimentos da Base
+QUEST_20150317_000118	Eu nunca estive em uma luta real antes, então eu estou um pouco nervoso.
+QUEST_20150317_000119	Sentinela da Fazenda
+QUEST_20150317_000120	Meu colega está no meio de uma batalha no Vilarejo dos Mineradores. {nl}Já pensei em ajudar, mas os Bosques Orientais estão com problemas também, então tudo o que eu posso fazer é me preocupar.
+QUEST_20150317_000121	Eu acho que esta missão tem me mostrado monstros o bastante para uma vida. {nl}Costumava ser apenas grupos de Vubbes.
+QUEST_20150317_000122	{memo X}Os Chupacabras gostam de córregos e vegetações da zona norte.
+QUEST_20150317_000123	Capitão da Guarda de Klaipeda
+QUEST_20150317_000124	Você é…
+QUEST_20150317_000125	{memo X}E como se você pudesse ver a floresta superior daqui. {nl}Tente não se meter em problemas.
+QUEST_20150317_000126	Você não tem o item necessário da quest. Você deseja continuar?
+QUEST_20150317_000127	Garota de Klaipeda
+QUEST_20150317_000128	Meu vizinho costumava ser um caçador de monstros. {nl}Ele está aposentado agora, no entanto. Era muito perigoso.
+QUEST_20150317_000129	{memo X}Seria bom se todos esses Reveladores aqui pudesse significar que as Deusas estão de volta.
+QUEST_20150317_000130	Pode ser bobagem ter esperança pelo retorno da Deusa, mas é melhor do que nada.
+QUEST_20150317_000131	Senhora de Klaipeda
+QUEST_20150317_000132	Nós ainda podemos crescer da terra, e termos uma lareira quente em nossos lares para descansar. {nl}Eu sempre acreditarei que a Deusa está em algum lugar no mundo.
+QUEST_20150317_000133	Tenha fé. {nl}A Deusa ainda pode nos enviar um Salvador.
+QUEST_20150317_000134	Mestre Hoplita
+QUEST_20150317_000135	$Se a espada é um símbolo de poder, então a lança é a mais pura destruição. {nl}Poder ou destruição - o que você teria para o campo de batalha?
+QUEST_20150317_000136	Trabalhador das Máquinas
+QUEST_20150317_000137	Mesmo com o mundo tão caótico como está, não podemos parar de trabalhar. {nl}Já faz quatro anos. Não é hora de fazer a paz com isso e começar de novo?
+QUEST_20150317_000138	Klaipeda é uma cidade que vive de sua mineração. {nl}Com o Medzio Diena, devemos trabalhar no plantio de árvores ou cortá-las.
+QUEST_20150317_000139	Meu velho conseguiu essa coisa ao procurar pelos cantos por algo legal. {nl}Algumas vezes, ele teve sorte e encontrou um bom baú do tesouro. Eu me pergunto quem deixou isso lá.
+QUEST_20150317_000140	Caçador Aposentado
+QUEST_20150317_000141	Eu lembro desta batalha em um desfiladeiro profundo, onde os soldados lutaram contra um enorme monstro. {nl}Vendo a coisa gigante cair foi incrível, mas o que foi mais surpreendente foram os espólios.
+QUEST_20150317_000142	Velho Oleiro
+QUEST_20150317_000143	Eu pus orações nos meus vasos de barro, um por um. {nl}Dessa forma, os potes serão um dia preenchidos com as bênçãos da Deusa.
+QUEST_20150317_000144	{memo X}Espadachins devem ter Força, mas você também pode ter Destreza e Constituição. {nl}Você irá precisar pensar sobre qual começar.
+QUEST_20150317_000145	Os Bruxos trabalham com Inteligência, mas não se deve esquecer do Espírito para conjurar mais feitiços. {nl}Você terá que escolher entre ser balanceado ou especializado.
+QUEST_20150317_000146	{memo X}Os Arqueiros devem ter Força, mas Destreza irá prevenir problemas com os movimentos. {nl}Você irá precisar pensar sobre qual começar.
+QUEST_20150317_000147	{memo X}Clérigos trabalham com Inteligência, mas podem precisar de muita Força e Espírito. {nl}Você realmente deverá decidir como quer começar.
+QUEST_20150317_000148	Mestre Doppelsoeldner
+QUEST_20150317_000149	Valem a pena as coisas que sempre carregam um degrau de risco. {nl}Naturalmente, para grandes recompensas, você terá que aturar um monte de perigo.
+QUEST_20150317_000150	Mestre Corsário
 QUEST_20150317_000151
 QUEST_20150317_000152
 QUEST_20150317_000153
